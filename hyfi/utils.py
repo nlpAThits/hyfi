@@ -81,3 +81,7 @@ def save_plot(plt, data, filename, cumulative=False, density=False):
     plt.hist(data, cumulative=cumulative, density=density, bins=50)
     plt.savefig(filename)
     plt.clf()
+
+def euclidean_distance(u, v):
+    return torch.norm(u - v, dim=-1, keepdim=False)
+
