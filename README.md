@@ -1,5 +1,5 @@
 # A Fully Hyperbolic Neural Model for Hierarchical Multi-class Classification
-Code for the paper ["A Fully Hyperbolic Neural Model for Hierarchical Multi-class Classification"](link to arxiv for now) published at Findings of EMNLP 2020
+Code for the paper ["A Fully Hyperbolic Neural Model for Hierarchical Multi-class Classification"](https://arxiv.org/abs/2010.02053) published at Findings of EMNLP 2020.
 
 Model overview:
 <p align="center"><img width="95%" src="img/model.png" /></p>
@@ -9,7 +9,15 @@ Model overview:
 The source code and data in this repository aims at facilitating the integration of hyperbolic components into neural models for NLP. 
 If you use the code/data, please cite it as follows:
 ```
-Add citation
+@misc{lopez2020hyfi,
+      title={A Fully Hyperbolic Neural Model for Hierarchical Multi-Class Classification}, 
+      author={Federico L{\'o}pez and Michael Strube},
+      year={2020},
+      eprint={2010.02053},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url="https://arxiv.org/abs/2010.02053"  
+}
 ```
 
 ## Dependencies
