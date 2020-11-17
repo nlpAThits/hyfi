@@ -9,14 +9,16 @@ Model overview:
 The source code and data in this repository aims at facilitating the integration of hyperbolic components into neural models for NLP. 
 If you use the code/data, please cite it as follows:
 ```
-@misc{lopez2020hyfi,
-      title={A Fully Hyperbolic Neural Model for Hierarchical Multi-Class Classification}, 
-      author={Federico L{\'o}pez and Michael Strube},
-      year={2020},
-      eprint={2010.02053},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url="https://arxiv.org/abs/2010.02053"  
+@inproceedings{lopez2020hyfi,
+    title = "A Fully Hyperbolic Neural Model for Hierarchical Multi-Class Classification",
+    author = "L{\'o}pez, Federico  and Strube, Michael",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2020",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.findings-emnlp.42",
+    pages = "460--475"
 }
 ```
 
