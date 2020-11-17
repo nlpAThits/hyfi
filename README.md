@@ -1,5 +1,5 @@
 # A Fully Hyperbolic Neural Model for Hierarchical Multi-class Classification
-Code for the paper ["A Fully Hyperbolic Neural Model for Hierarchical Multi-class Classification"](https://arxiv.org/abs/2010.02053) published at Findings of EMNLP 2020.
+Code for the paper ["A Fully Hyperbolic Neural Model for Hierarchical Multi-class Classification"](https://www.aclweb.org/anthology/2020.findings-emnlp.42/) published at Findings of EMNLP 2020.
 
 Model overview:
 <p align="center"><img width="95%" src="img/model.png" /></p>
